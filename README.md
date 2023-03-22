@@ -10,5 +10,16 @@ npm i openai <br>
 npm i dotenv <br>
 </copy-button>
 
+```js
+import copy from 'copy-to-clipboard';
+
+copy('Text');
+
+// Copy with options
+copy('Text', {
+  debug: true,
+  message: 'Press #{key} to copy',
+});
+```
 
 you can use in your project freely
