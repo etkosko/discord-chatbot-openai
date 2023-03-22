@@ -5,9 +5,9 @@ ChatGPT model text-davinci-003  <br>
 Used CommonJS
 
 ```
-npm i discord.js <br>
-npm i openai <br>
-npm i dotenv <br>
+npm i discord.js
+npm i openai
+npm i dotenv
 ```
 
 you can use in your project freely
