@@ -4,7 +4,7 @@ This bot is a chatbot that only responds to direct messages and is made with ope
 ChatGPT model text-davinci-003  <br>
 Used CommonJS
 
-```js
+```
 npm i discord.js <br>
 npm i openai <br>
 npm i dotenv <br>
