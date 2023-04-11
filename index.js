@@ -13,8 +13,7 @@ const client = new Client({
         [Partials.Message,
         Partials.Channel,
         Partials.Reaction]
-});
-
+}); //* here is important part for read a dm message
 
 
 client.on("ready", () => {
