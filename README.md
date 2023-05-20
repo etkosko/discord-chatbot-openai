@@ -1,5 +1,5 @@
 # Discord Chatbot Openai (ChatGPT Bot)
-This bot is a chatbot that only responds to direct messages and is made with openai api (this bot used openai's text-davinci-003 model)
+This bot is a chatbot that only responds to direct messages and is made with openai api (this bot used openai's text-davinci-003 model you can use chat-gpt-3.5)
 
 ChatGPT model text-davinci-003  <br>
 Used CommonJS
